@@ -1,0 +1,15 @@
+<style>
+    body, html {
+      height: 100%;
+    }
+    .box {
+      max-width: 400px;
+      margin: auto;
+    }
+    .full-height {
+      height: 100vh;
+    }
+    .footer {
+        margin-top: 50px;
+      }
+  </style>
